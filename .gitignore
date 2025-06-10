@@ -1,0 +1,30 @@
+# Arquivos e pastas comuns
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Dependências e builds
+node_modules/
+dist/
+build/
+out/
+
+# Arquivos de configuração sensíveis
+.env
+*.env.*
+*.key
+*.pem
+
+# Ferramentas de IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+*.pyo
